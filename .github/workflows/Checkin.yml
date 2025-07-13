@@ -5,6 +5,7 @@ on:
   schedule:
     # UTC
     - cron: "1 46 * * *"
+    - cron: "1 55 * * *"
 
 jobs:
   checkin:
